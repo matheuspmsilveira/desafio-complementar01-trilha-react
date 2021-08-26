@@ -1,6 +1,6 @@
 import { SideBar } from './components/SideBar';
 import { Content } from './components/Content';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 import './styles/global.scss';
 
